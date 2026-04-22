@@ -18,7 +18,7 @@ The goal is to identify patterns in stock availability, discount strategies, and
 
 ## 📂 Dataset Details
 
-* **Raw Dataset:** `zepto.csv` (uncleaned data)
+* **Raw Dataset:** `zepto_raw_dataset.csv` (uncleaned data)
 * **Cleaned Dataset:** `zepto_cleaned_dataset.csv`
 
 ### Data includes:
