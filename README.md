@@ -113,6 +113,8 @@ The Power BI report presents SQL query results in a structured visual format.
 ## 📸 Report Overview
 
 <img width="1231" height="696" alt="Screenshot 2026-04-22 220002" src="https://github.com/user-attachments/assets/f07c5509-84fb-4949-9074-ebeb1b4ce40b" />
+
+
 <img width="1234" height="687" alt="Screenshot 2026-04-22 220408" src="https://github.com/user-attachments/assets/273c26c2-701f-464d-b9f5-54b80c83e488" />
 
 
