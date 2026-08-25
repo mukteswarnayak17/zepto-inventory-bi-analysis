@@ -125,6 +125,5 @@ This project demonstrates a complete data analysis workflow:
 
 It reflects practical skills required for a Data Analyst role.
 
----
 
 💡 *If you like this project, feel free to ⭐ the repository and share your feedback!*
