@@ -6,7 +6,6 @@ This project focuses on analyzing Zepto's product and inventory data to generate
 
 The objective is to identify patterns in stock availability, pricing, and discount strategies to support better business decisions.
 
----
 
 ## ⚙️ Tech Stack
 
@@ -14,7 +13,6 @@ The objective is to identify patterns in stock availability, pricing, and discou
 * 📊 **Power BI** – Report creation & visualization
 * 📁 **CSV Files** – Raw and processed datasets
 
----
 
 ## 📂 Dataset Details
 
@@ -28,7 +26,6 @@ The objective is to identify patterns in stock availability, pricing, and discou
 * 📦 Inventory levels
 * ✅ Stock availability
 
----
 
 ## 🧹 Data Cleaning (SQL)
 
@@ -42,7 +39,6 @@ Data cleaning was performed directly in SQL to ensure efficiency and accuracy.
 * Cleaned discount percentage values
 * Checked for duplicates
 
----
 
 ## 📊 SQL Analysis
 
@@ -59,7 +55,6 @@ A total of **8 business-focused SQL queries** were written.
 * Top promotional categories
 * Marketing value (savings) by category
 
----
 
 ## 📈 Power BI Report
 
@@ -78,7 +73,6 @@ The Power BI report presents SQL query results in a structured visual format.
 * 📌 **Top Promotional Categories (Avg Discount)** (Bar Chart)
 * 📌 **Marketing Value: Savings per Category** (Area/Line Chart)
 
----
 
 ## 🔍 Key Insights
 
@@ -87,7 +81,6 @@ The Power BI report presents SQL query results in a structured visual format.
 * 📊 Mid-range products dominate inventory distribution
 * ⚠️ Certain categories require urgent restocking
 
----
 
 ## 🚀 Business Impact
 
@@ -96,7 +89,6 @@ The Power BI report presents SQL query results in a structured visual format.
 * Supports discount strategy decisions 💰
 * Enables data-driven insights 📊
 
----
 
 ## 📁 Project Structure
 
@@ -108,25 +100,13 @@ The Power BI report presents SQL query results in a structured visual format.
 └── README.md
 ```
 
----
 
-## 📸 Report Overview
-
-<img width="1231" height="696" alt="Screenshot 2026-04-22 220002" src="https://github.com/user-attachments/assets/f07c5509-84fb-4949-9074-ebeb1b4ce40b" />
-
-
-<img width="1234" height="687" alt="Screenshot 2026-04-22 220408" src="https://github.com/user-attachments/assets/273c26c2-701f-464d-b9f5-54b80c83e488" />
-
-
-
----
 
 ## 📜 License
 
 This project is licensed under the **MIT License**.
 You are free to use, modify, and distribute this project with proper attribution.
 
----
 
 ## 🙌 Acknowledgements
 
@@ -134,7 +114,6 @@ You are free to use, modify, and distribute this project with proper attribution
 * Power BI for visualization capabilities
 * MySQL Workbench for data processing and analysis
 
----
 
 ## ✅ Conclusion
 
